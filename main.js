@@ -1,3 +1,3 @@
 module.exports = {
-    reverse(str){ str.split('').reverse().join('');}
+    reverse(str){ return str.split('').reverse().join('');}
 };
